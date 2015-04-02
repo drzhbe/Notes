@@ -1,10 +1,12 @@
 [Music and computers](http://music.columbia.edu/cmc/musicandcomputers/)
 
-Physical/Psychophysical
-* Frequency/Pitch
-* Amplitude/Loudness
+# Physical / Psychophysical
+* Frequency / Pitch
+* Amplitude / Loudness
 
-Human ear can recognize 20Hz – 20KHz.
+# Frequency
+* F = Repeats/second (Hz)
+* Human ear can recognize the following frequencies: 20Hz – 20KHz
 
 # Octave 2:1
 * 20Hz – 40Hz
