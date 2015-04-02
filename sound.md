@@ -1,4 +1,4 @@
-(Music and computers)[http://music.columbia.edu/cmc/musicandcomputers/]
+[Music and computers](http://music.columbia.edu/cmc/musicandcomputers/)
 
 Physical/Psychophysical
 * Frequency/Pitch
