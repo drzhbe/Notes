@@ -23,3 +23,6 @@ W = `sonic speed (345 meters/second)` * `Period`
 
 ## A
 55Hz, 110Hz, 220Hz, 440Hz, ...
+
+## Fletcher-Munson Curves
+Loudness of 50Hz tone at 55dB == loudness of 1000Hz at 20dB
