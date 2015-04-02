@@ -5,8 +5,14 @@
 * Amplitude / Loudness
 
 # Frequency
-* F = Repeats/second (Hz)
+* F = repeats/second (Hz)
 * Human ear can recognize the following frequencies: 20Hz – 20KHz
+ 
+# Period
+P = seconds/repeats
+ 
+# Wavelength
+W = `sonic speed (345 meters/second)` * `Period`
 
 # Octave 2:1
 * 20Hz – 40Hz
