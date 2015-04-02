@@ -1,24 +1,25 @@
 [Music and computers](http://music.columbia.edu/cmc/musicandcomputers/)
+# Chapter 1. The Digital Representation of Sound, Part One: Sound and Timbre
 
-# Physical / Psychophysical
+## Physical / Psychophysical
 * Frequency / Pitch
 * Amplitude / Loudness
 
-# Frequency
+## Frequency
 * F = repeats/second (Hz)
 * Human ear can recognize the following frequencies: 20Hz – 20KHz
  
-# Period
+## Period
 P = seconds/repeats
  
-# Wavelength
+## Wavelength
 W = `sonic speed (345 meters/second)` * `Period`
 
-# Octave 2:1
+## Octave 2:1
 * 20Hz – 40Hz
 * 40Hz – 80Hz
 * 80Hz – 160Hz
 * ...
 
-# A
+## A
 55Hz, 110Hz, 220Hz, 440Hz, ...
