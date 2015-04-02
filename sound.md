@@ -6,9 +6,11 @@ Physical/Psychophysical
 
 Human ear can recognize 20Hz – 20KHz.
 
-Octave 2:1
----
+# Octave 2:1
 * 20Hz – 40Hz
 * 40Hz – 80Hz
 * 80Hz – 160Hz
 * ...
+
+# A
+55Hz, 110Hz, 220Hz, 440Hz
