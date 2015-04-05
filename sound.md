@@ -37,4 +37,9 @@ Loudness of 50 Hz tone at 55 dB == loudness of 1000 Hz at 20 dB
 * piano's highest sound is 4 KHz. Frequencies from 4KHz to 20KHz represent timbral, spectral.
 * alias could happen when frequency is higher than Nyquist rate
 * anti-alias filter will cut-off everything above Nyquist rate (44.1 KHz)
-* 
+* so the common sample rate is 44.1 KHz and the bit-depth of samples is 16 bits
+* 1 second of sound: 16 bits sample size * 2 channels * 44.1 KHz sample rate = 176.4 KBytes for 1 second of sound
+
+# Chapter 3: The Frequency Domain
+
+
