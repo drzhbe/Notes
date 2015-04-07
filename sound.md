@@ -50,4 +50,4 @@ Loudness of 50 Hz tone at 55 dB == loudness of 1000 Hz at 20 dB
 * sine is a `height / radius (sin(A) = a / c)` → `a = c * sin(A)` height of the tip of the arrow relative to the x-axis
 * cosine is width / radius (cos(A) = b / c)
 * `a = c * sin(A)`, where `a` is a *height* (*h(t)* at the moment *t*) and `c` is a *radius* (and our radius is 1) → `h(t) = 1 * sin(A(t))` (look *A(t)* at the first statement) → `h(t) = sin(2 * Pi * t)`
-*
+* So the height is `sin(2 * Pi * t)` and has a graph of curve. To change the curve we can increase *amplitude* (*radius* or *the length of the arrow*) `sin(A) = height / radius` (increasing radius from 1 to 3) → `sin(2 * Pi * t) = h(t) / 3` → `h(t) = 3 * sin(2 * Pi * t)`
