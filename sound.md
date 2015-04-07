@@ -46,8 +46,13 @@ Loudness of 50 Hz tone at 55 dB == loudness of 1000 Hz at 20 dB
   /|
  / |
 /__|
-* `A(t) = 2 * Pi * t` amount of angle, that the phasor has gone around at time *t*
+* `A(t) = 2 * Pi * t` amount of angle, that the phasor has gone around at time *t* giving that the frequency is *1 revolution per second* (2 * Pi)
 * sine is a `height / radius (sin(A) = a / c)` → `a = c * sin(A)` height of the tip of the arrow relative to the x-axis
 * cosine is width / radius (cos(A) = b / c)
 * `a = c * sin(A)`, where `a` is a *height* (*h(t)* at the moment *t*) and `c` is a *radius* (and our radius is 1) → `h(t) = 1 * sin(A(t))` (look *A(t)* at the first statement) → `h(t) = sin(2 * Pi * t)`
 * So the height is `sin(2 * Pi * t)` and has a graph of curve. To change the curve we can increase *amplitude* (*radius* or *the length of the arrow*) `sin(A) = height / radius` (increasing radius from 1 to 3) → `sin(2 * Pi * t) = h(t) / 3` → `h(t) = 3 * sin(2 * Pi * t)`
+* Another way to change the curve is increasing the *frequency* from 1 revolution per second to 5 `A(t) = 5 * (2 * Pi * t) = 10 * Pi * t` → `h(t) = 3 * sin(5 * 2 * Pi * t)`
+* So the general formula is `h(t) = Amplitude * sin(Frequency * 2 * Pi * t)`
+* The last thing in our graph is the *starting point of the spinning* so we add the *phase shift*, if we want to start the rotation from the angle of *Pi / 4* → `h(t) = 3 * sin(5 * 2 * Pi * t + Pi / 4)`
+* The most general formula is `h(t) = Amplitude * sin(Frequency * 2 * Pi * t + PhaseShift)`
+* if we make phase shift = 90 degrees, we will get the graph of *cosine*, so the *cosine is phase-shifted sine*
