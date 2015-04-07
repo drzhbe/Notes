@@ -53,5 +53,5 @@ Loudness of 50 Hz tone at 55 dB == loudness of 1000 Hz at 20 dB
 * The most general formula is `h(t) = Amplitude * sin(Frequency * 2 * Pi * t + PhaseShift)`
 * if we make phase shift = 90 degrees, we will get the graph of *cosine*, so the *cosine is phase-shifted sine*
  
-# Fourier and the Sum of Sines
+## Fourier and the Sum of Sines
 
