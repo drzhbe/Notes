@@ -42,10 +42,6 @@ Loudness of 50 Hz tone at 55 dB == loudness of 1000 Hz at 20 dB
 
 # Chapter 3: The Frequency Domain
 
-
-  /|
- / |
-/__|
 * `A(t) = 2 * Pi * t` amount of angle, that the phasor has gone around at time *t* giving that the frequency is *1 revolution per second* (2 * Pi)
 * sine is a `height / radius (sin(A) = a / c)` → `a = c * sin(A)` height of the tip of the arrow relative to the x-axis
 * cosine is width / radius (cos(A) = b / c)
@@ -56,3 +52,6 @@ Loudness of 50 Hz tone at 55 dB == loudness of 1000 Hz at 20 dB
 * The last thing in our graph is the *starting point of the spinning* so we add the *phase shift*, if we want to start the rotation from the angle of *Pi / 4* → `h(t) = 3 * sin(5 * 2 * Pi * t + Pi / 4)`
 * The most general formula is `h(t) = Amplitude * sin(Frequency * 2 * Pi * t + PhaseShift)`
 * if we make phase shift = 90 degrees, we will get the graph of *cosine*, so the *cosine is phase-shifted sine*
+ 
+# Fourier and the Sum of Sines
+
