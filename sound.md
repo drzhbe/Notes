@@ -43,3 +43,11 @@ Loudness of 50 Hz tone at 55 dB == loudness of 1000 Hz at 20 dB
 # Chapter 3: The Frequency Domain
 
 
+  /|
+ / |
+/__|
+* `A(t) = 2 * Pi * t` amount of angle, that the phasor has gone around at time *t*
+* sine is a `height / radius (sin(A) = a / c)` → `a = c * sin(A)` height of the tip of the arrow relative to the x-axis
+* cosine is width / radius (cos(A) = b / c)
+* `a = c * sin(A)`, where `a` is a *height* (*h(t)* at the moment *t*) and `c` is a *radius* (and our radius is 1) → `h(t) = 1 * sin(A(t))` (look *A(t)* at the first statement) → `h(t) = sin(2 * Pi * t)`
+*
