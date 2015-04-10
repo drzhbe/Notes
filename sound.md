@@ -56,3 +56,9 @@ Loudness of 50 Hz tone at 55 dB == loudness of 1000 Hz at 20 dB
  
 ## Fourier and the Sum of Sines
 
+* "Any periodic waveform can be expressed as the sum of an infinite set of sine waves" (c) Fourier
+* The frequencies of these sine waves must by integer multiples of some fundamental frequency
+* To express middle A (440 Hz): 440 Hz, 880 Hz, 1320 Hz...
+* Triangle waves only contain partials at odd multiples of fundamental
+* @TODO add phasor definition
+* @TODO add FFT definition
